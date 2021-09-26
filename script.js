@@ -3,7 +3,7 @@ fetchData();
 let i = 0;
 let j = 0;
 let txt = 'Welcome!';
-let disc = "There is not much anything here for now. Update is coming soon."
+let disc = "There is not much of anything here right now. Update is coming soon."
 
 
 function typeWriter1() {
